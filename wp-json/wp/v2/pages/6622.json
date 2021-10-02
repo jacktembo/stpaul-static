@@ -1,0 +1,64 @@
+{
+  "id": 6622,
+  "date": "2021-04-03T07:53:31",
+  "date_gmt": "2021-04-03T07:53:31",
+  "guid": { "rendered": "https://st. Paul.edu.ng/?page_id=6622" },
+  "modified": "2021-04-05T20:03:56",
+  "modified_gmt": "2021-04-05T20:03:56",
+  "slug": "college-management",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/college-management/",
+  "title": { "rendered": "College Management" },
+  "content": {
+    "rendered": "\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container\">\n<figure class=\"wp-block-table is-style-stripes\"><table><tbody><tr><td><strong>S/NO</strong></td><td><strong>NAME</strong></td><td><strong>DESIGNATION</strong></td><td><strong>&nbsp;POST</strong></td></tr><tr><td>1.</td><td>Dr Aminu Bello Abdullahi</td><td>Provost</td><td>Chairman &nbsp;</td></tr><tr><td>2.</td><td>Usman Bala</td><td>Ag. Bursar</td><td>Member</td></tr><tr><td>3.</td><td>Mohammed Nuraddeen Umar&nbsp;</td><td>Director, Kasimu Kofar Bai School of Nursing, st. Paul</td><td>Member</td></tr><tr><td>4.</td><td>Halima Kallah Yahaya&nbsp;</td><td>Director, Nana Babajo School of Midwifery, Malumfashi</td><td>Member</td></tr><tr><td>5.</td><td>Sagir Haruna</td><td>&nbsp;Director,&nbsp;Academic&nbsp;Planning and Development</td><td>Member</td></tr><tr><td>6.</td><td>Musa Kofar Bai</td><td>Ag. Director, Works and Services</td><td>Member</td></tr><tr><td>7.</td><td>Vacant</td><td>College Librarian</td><td>Member</td></tr><tr><td>8.</td><td>Vacant</td><td>Deputy Provost</td><td>Member</td></tr><tr><td>9.</td><td>Yusuf Bello Saulawa</td><td>Ag. Registrar &nbsp;</td><td>Secretary</td></tr></tbody></table></figure>\n</div></div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>S/NO NAME DESIGNATION &nbsp;POST 1. Dr Aminu Bello Abdullahi Provost Chairman &nbsp; 2. Usman Bala Ag. Bursar Member 3. Mohammed Nuraddeen Umar&nbsp; Director, Kasimu Kofar Bai School of Nursing, st. Paul Member 4. Halima Kallah Yahaya&nbsp; Director, Nana Babajo School of Midwifery, Malumfashi Member 5. Sagir Haruna &nbsp;Director,&nbsp;Academic&nbsp;Planning and Development Member [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6622" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6622"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6622/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6652,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6622/revisions/6652"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6622" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

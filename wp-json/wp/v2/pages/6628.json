@@ -1,0 +1,61 @@
+{
+  "id": 6628,
+  "date": "2021-04-04T12:14:09",
+  "date_gmt": "2021-04-04T12:14:09",
+  "guid": { "rendered": "https://st. Paul.edu.ng/?page_id=6628" },
+  "modified": "2021-04-04T12:20:11",
+  "modified_gmt": "2021-04-04T12:20:11",
+  "slug": "college-organogram",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/college-organogram/",
+  "title": { "rendered": "College Organogram" },
+  "content": {
+    "rendered": "<a href=\"https://st. Paul.edu.ng/wp-content/uploads/2021/04/st. Paul_organogram-1.pdf\" class=\"pdfemb-viewer\" style=\"\" data-width=\"max\" data-height=\"max\"  data-toolbar=\"bottom\" data-toolbar-fixed=\"off\">st. Paul_organogram-1<br/></a>\n<p class=\"wp-block-pdfemb-pdf-embedder-viewer\"></p>\n",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6628" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6628"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6628/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6634,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6628/revisions/6634"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6628" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

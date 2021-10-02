@@ -1,0 +1,64 @@
+{
+  "id": 6542,
+  "date": "2021-03-16T15:54:30",
+  "date_gmt": "2021-03-16T15:54:30",
+  "guid": { "rendered": "https://st. Paul.edu.ng/?page_id=6542" },
+  "modified": "2021-03-18T08:43:45",
+  "modified_gmt": "2021-03-18T08:43:45",
+  "slug": "vision-mission-and-core-values",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/vision-mission-and-core-values/",
+  "title": { "rendered": "Vision, Mission and Core Values" },
+  "content": {
+    "rendered": "\n<p class=\"has-medium-font-size\">Vision</p>\n\n\n\n<p class=\"has-medium-font-size\">To become the foremost and prestigious College of Nursing and Midwifery in Africa through quality training, cutting-edge research and innovation.</p>\n\n\n\n<p class=\"has-medium-font-size\">Mission</p>\n\n\n\n<p class=\"has-medium-font-size\">To produce professional Nurses and Midwives equipped with critical, analytical and evidence-based practice skills that will provide quality healthcare services to individuals, families and communities at all levels of care.</p>\n\n\n\n<p class=\"has-medium-font-size\">Core Values</p>\n\n\n\n<ul class=\"has-medium-font-size\"><li>Dynamism</li><li>Integrity</li><li>Selfless Service</li><li>Credibility</li><li>Innovation</li><li>Professionalism</li><li>Loyalty</li><li>Inquiry</li><li>Nobility</li><li>Efficiency</li></ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Vision To become the foremost and prestigious College of Nursing and Midwifery in Africa through quality training, cutting-edge research and innovation. Mission To produce professional Nurses and Midwives equipped with critical, analytical and evidence-based practice skills that will provide quality healthcare services to individuals, families and communities at all levels [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6542" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6542"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6542/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6556,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6542/revisions/6556"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6542" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

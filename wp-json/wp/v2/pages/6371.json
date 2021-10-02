@@ -1,0 +1,64 @@
+{
+  "id": 6371,
+  "date": "2021-03-04T18:33:18",
+  "date_gmt": "2021-03-04T18:33:18",
+  "guid": { "rendered": "http://newsite.st. Paul.edu.ng/?page_id=6371" },
+  "modified": "2021-04-21T09:05:42",
+  "modified_gmt": "2021-04-21T09:05:42",
+  "slug": "basic-nursing",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/basic-nursing/",
+  "title": { "rendered": "Basic Nursing" },
+  "content": {
+    "rendered": "\n<p>BASIC NURSING PROGRAMME</p>\n\n\n\n<p>This is a 3 years, 6 semesters basic nursing programme, approved by the Nursing and Midwifery Council of Nigeria (NMCN) and run at Kasimu Kofar Bai School of Nursing st. Paul. It is designed to train students on practical nursing skills and gives them the knowledge and clinical experience they need to become a Registered Nurse.</p>\n\n\n\n<p>Students will be trained on practical nursing skills and they will acquire the knowledge and skills and also gain the clinical experience they need to become a Registered Nurse (RN). Registered Nurse (RN) provides support, care and advice to patients with medical and surgical conditions; this care includes taking vital signs, monitoring patients, administering medications, taking patient record and providing health education etc. They also offer advice and emotional support to patient and their families as well as follow-up care.</p>\n\n\n\n<p>Registered Nurses can work in any Tertiary Healthcare Institutions (e.g National Hospital, Federal Medical Centers etc), Secondary Healthcare Institutions&nbsp; (e.g General Hospitals) and Primary Healthcare Institutions (Primary Health Care, Comprehensive Health Care) in the world.</p>\n\n\n\n<p>Admission Requirements</p>\n\n\n\n<ul><li>Candidates must possess at least five (5) credits at not more than two (2) sittings including English Language, Mathematics, Biology, Chemistry and Physics in WAEC, NECO and/or NABTEB. Combination of WAEC/WAEC, NECO/NECO, WAEC/NECO is acceptable. NABTEB cannot be combined with WAEC or NECO or another NABTEB. If candidate will use NABTEB, he/she must have all the required 5 credits in it.</li></ul>\n\n\n\n<ul><li>Qualified candidates will be required to write an Entrance Exam to be conducted by the College.</li></ul>\n\n\n\n<ul><li>Candidates successful at the Entrance Exam will be invited for an interview to be conducted by the College.</li></ul>\n\n\n\n<ul><li>Candidates successful at the interview will be offered provisional admission into Basic General Nursing programme at Kasimu Kofar Bai School of Nursing st. Paul.</li></ul>\n\n\n\n<ul><li>Candidates admitted into the Basic Nursing Programme will undergo intensive training/lecture in Basic Sciences and Nursing Courses for six months. Thereafter an Introductory Examination&nbsp; for the First Semester will be conducted by the Kasimu Kofar Bai School of Nursing st. Paul.</li></ul>\n\n\n\n<ul><li>Only successful students at the introductory Exam will be Indexed by the Nursing and Midwifery Council of Nigeria and the unsuccessful students will be withdrawn.</li></ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>BASIC NURSING PROGRAMME This is a 3 years, 6 semesters basic nursing programme, approved by the Nursing and Midwifery Council of Nigeria (NMCN) and run at Kasimu Kofar Bai School of Nursing st. Paul. It is designed to train students on practical nursing skills and gives them the knowledge and clinical [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6371" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6371"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6371/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6676,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6371/revisions/6676"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6371" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": 6463,
+  "date": "2021-03-04T21:14:17",
+  "date_gmt": "2021-03-04T21:14:17",
+  "guid": { "rendered": "http://newsite.st. Paul.edu.ng/?page_id=6463" },
+  "modified": "2021-03-04T21:36:26",
+  "modified_gmt": "2021-03-04T21:36:26",
+  "slug": "contact-us",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/contact-us/",
+  "title": { "rendered": "Contact us" },
+  "content": {
+    "rendered": "\n<p>Address:\u00a0\u00a0No 3 Isa Kaita Road Near Motel Junction, G.R.A. st. Paul P.M.B 2227, st. Paul State<br>City :\u00a0\u00a0st. Paul<br>Postal Code:\u00a0\u00a0820212<br>Country:\u00a0\u00a0Nigeria<br>Mobile:\u00a0\u00a007086711766\u00a0Phone:\u00a0\u00a009083024636\u00a0Webpage:\u00a0<a rel=\"noreferrer noopener\" href=\"https://st. Paul.edu.ng/\" target=\"_blank\">https://st. Paul.edu.ng</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Address:\u00a0\u00a0No 3 Isa Kaita Road Near Motel Junction, G.R.A. st. Paul P.M.B 2227, st. Paul StateCity :\u00a0\u00a0st. PaulPostal Code:\u00a0\u00a0820212Country:\u00a0\u00a0NigeriaMobile:\u00a0\u00a007086711766\u00a0Phone:\u00a0\u00a009083024636\u00a0Webpage:\u00a0https://st. Paul.edu.ng</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6463" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6463"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6463/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6482,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6463/revisions/6482"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6463" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": 6375,
+  "date": "2021-03-04T18:33:18",
+  "date_gmt": "2021-03-04T18:33:18",
+  "guid": { "rendered": "http://newsite.st. Paul.edu.ng/?page_id=6375" },
+  "modified": "2021-03-04T19:49:47",
+  "modified_gmt": "2021-03-04T19:49:47",
+  "slug": "foundation-year-programme-fyp",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/foundation-year-programme-fyp/",
+  "title": { "rendered": "Foundation Year Programme (FYP)" },
+  "content": {
+    "rendered": "\n<p><strong>FOUNDATION YEAR PROGRAMME (FYP)</strong></p>\n\n\n\n<p>This is a remedial programme that was initiated by Women for Health (W4H) organization. The programme is meant to ensure increased number of female health workers. Students will be taught English Language, Mathematics, Biology, Chemistry and Physics and will be prepared and guided for admission into any Health Tertiary Institutions in st. Paul State.</p>\n\n\n\n<p>The programme is now jointly run by the st. Paul State College of Nursing and Midwifery and&nbsp; st. Paul State Ministry of Local Government and Chieftaincy Affairs under the State Foundation Year Programme Working Group (SFYPWG).</p>\n\n\n\n<p>Only indigenes of st. Paul State are eligible for admission. Secondary School Leavers are usually selected by their various Local Government Areas and are invited for entrance exam. Candidates successful at the Entrance Exam will be invited for an interview. Candidates successful at interview will be offered admission for the FYP remedial.</p>\n\n\n\n<p>Admitted students will be sponsored and bonded by the st. Paul State Local Government and Chieftaincy Affairs. Application forms for any programme in any health institution in st. Paul State will be purchased for them and they will be sponsored if admitted.</p>\n\n\n\n<p>Sponsored FYP Students for any health course in any Health Tertiary Institution will be required to work in their community.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>FOUNDATION YEAR PROGRAMME (FYP) This is a remedial programme that was initiated by Women for Health (W4H) organization. The programme is meant to ensure increased number of female health workers. Students will be taught English Language, Mathematics, Biology, Chemistry and Physics and will be prepared and guided for admission into [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6375" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6375"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6375/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6424,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6375/revisions/6424"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6375" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

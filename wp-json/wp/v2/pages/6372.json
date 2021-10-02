@@ -1,0 +1,64 @@
+{
+  "id": 6372,
+  "date": "2021-03-04T18:33:18",
+  "date_gmt": "2021-03-04T18:33:18",
+  "guid": { "rendered": "http://newsite.st. Paul.edu.ng/?page_id=6372" },
+  "modified": "2021-03-04T19:45:42",
+  "modified_gmt": "2021-03-04T19:45:42",
+  "slug": "community-nursing",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/community-nursing/",
+  "title": { "rendered": "Community Nursing" },
+  "content": {
+    "rendered": "\n<p><strong>COMMUNITY NURSING</strong></p>\n\n\n\n<p>This is a 2 years, 4 semesters Community Nursing programme, approved by the Nursing and Nursing Council of Nigeria (NMCN). It is designed to train students on practical community nursing skills and gives them the knowledge and clinical experience they need to become a Licensed Community Nurses (LCN) to provide nursing care to individuals whether sick or well and to assist them in activities that would promote health at the community level where they live and work. Licensed Community Nurses (LCN) also provides support, care and advice to patients with medical and surgical conditions; this care includes taking vital signs, monitoring patients, administering medications, taking patient record and providing health education etc AT COMMUNITY LEVEL under the supervision of Registered&nbsp;Nurse or Registered Public Health Nurse. They also&nbsp;offer advice and emotional support to patient and their families as well as follow-up care.</p>\n\n\n\n<p>The programme is run by Kasimu Kofar Bai School of Nursing st. Paul and is meant to spearhead and implement nursing and health care services to the population at the grassroots, as first responders through home care (domiciliary nursing), provision of consumables, first aid care, primary case management, school health services and prompt referral to the appropriate level of care for further management.</p>\n\n\n\n<p>Only male and female indigenes of st. Paul State who are resident in their community are eligible for admission. Students studying Community Nursing will be sponsored and bonded by the st. Paul State Local Government Service Commission and will be required to work at their respective communities after successful graduation.</p>\n\n\n\n<p>Licensed Community Nurses can only work in Primary Healthcare Institutions (Primary Health Care, Comprehensive Health Care).&nbsp;Licensed Community Nurses who wish to further their education to become Registered Nurses shall be admitted for a two-year programme in a School/College of Nursing provided the pre-requisite O-level papers of 5 credits in English Language, Mathematics, Biology, Chemistry and Physics are met.</p>\n\n\n\n<p><strong>Admission Requirements</strong></p>\n\n\n\n<ul><li>Candidates must possess at least four (4) credits at not more than two (2) sittings including English Language, Biology and two science subjects in WAEC, NECO and/or NABTEB.&nbsp;Combination of WAEC/WAEC, NECO/NECO, WAEC/NECO is acceptable. NABTEB cannot be combined with WAEC or NECO or another NABTEB. If candidate will use NABTEB, he/she must have all the required 4 credits in it.</li><li>Qualified candidates will be required to write an Entrance Exam to be conducted by the College.</li><li>Candidates successful at the Entrance Exam will be invited for an interview to be conducted by the College.</li><li>Candidates successful at the interview will be offered provisional admission into Community Nursing programme at Kasimu Kofar Bai School of Nursing st. Paul.</li><li>Candidates admitted into the Community Nursing Programme will undergo intensive training/lecture in Basic Sciences and Nursing Courses for six months. Thereafter an Introductory Examination&nbsp;for the First Semester will be conducted by the Kasimu Kofar School of Nursing st. Paul.</li><li>Only successful students at the Introductory Exam will be indexed by the Nursing and Nursing Council of Nigeria and unsuccessful students will be withdrawn.</li></ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>COMMUNITY NURSING This is a 2 years, 4 semesters Community Nursing programme, approved by the Nursing and Nursing Council of Nigeria (NMCN). It is designed to train students on practical community nursing skills and gives them the knowledge and clinical experience they need to become a Licensed Community Nurses (LCN) [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6372" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6372"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6372/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6421,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6372/revisions/6421"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6372" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": 6591,
+  "date": "2021-04-03T06:14:13",
+  "date_gmt": "2021-04-03T06:14:13",
+  "guid": { "rendered": "https://st. Paul.edu.ng/?page_id=6591" },
+  "modified": "2021-04-12T09:51:54",
+  "modified_gmt": "2021-04-12T09:51:54",
+  "slug": "nd-hnd-nursing",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/nd-hnd-nursing/",
+  "title": { "rendered": "ND/HND Nursing" },
+  "content": {
+    "rendered": "\n<p><strong>Introduction</strong></p>\n\n\n\n<p>The\u00a0<strong>main objective\u00a0</strong>of the movement of Nursing Education into Colleges of Nursing in collaboration with National Board for Technical Education (NBTE) is to ensure that Nursing and Midwifery education in Nigeria, evolve in line with the National Policy on Education and the contemporary system of education in Nigeria.\u00a0This is in order to give\u00a0<strong>legal backing\u00a0</strong>by the Federal Government to Nursing institutions for the award of\u00a0<strong>ACADEMIC CERTIFICATES</strong>\u00a0to Nursing graduates.</p>\n\n\n\n<p>The ND/HND Nursing programme has been designed to allow for seamless academic progression of graduates along the already existing system of education in the country.&nbsp;It also takes cognizance of the new scheme of service for Nurses in Nigeria approved by the National Council of Establishment in 2016.</p>\n\n\n\n<p>The&nbsp;<strong>main goal&nbsp;</strong>of the ND/HND Nursing programme is to prepare competent, skilled, polyvalent Nurse practitioners, versatile midwives and professionally knowledgeable public health Nurses who will use problem-solving skills in providing safe, acceptable, effective and affordable quality health services to meet the health needs of individuals, families and communities at all levels of care.</p>\n\n\n\n<p><strong>About ND/HND Nursing Programme</strong></p>\n\n\n\n<p>The ND/HND Nursing is a four-year UNINTERUPTED programme i.e 2 years for ND and 2 years for HND. Students starts with ND Nursing programme which is a non-terminal programme. The ND Nursing graduates with minimum&nbsp;CGPA of 2.5&nbsp;(Lower Credit) will then proceed for HND Nursing.&nbsp;Indexing&nbsp;shall be at the beginning of first semester of ND II.&nbsp;Students shall participate in Supervised Clinical Work Experience (SCWE) during the programme. The SCWEs would be in two parts of eight weeks each. The first part of SCWE shall be between the end of ND I, while the second part shall be between the end of ND II.&nbsp;Stipend for SCWE shall be paid through Industrial Training Fund (ITF).&nbsp;The SCWE&nbsp;shall be graded on a pass or fail basis. Where a student has satisfied all other requirements of the programme BUT FAILED SCWEs, he/she may only be allowed to repeat another four months SCWEs at his/own expenses.</p>\n\n\n\n<p>Council\u2019s Professional Exam for General Nursing shall be after successful completion of HND 1 Nursing. However, graduates of HND Nursing programme are required to sit for Council\u2019s professional exam in either of the two options of specialization, namely: Midwifery for registration and licensing as Registered Midwife (RM)&nbsp;and&nbsp;Public Health Nursing for registration and licensing as Registered Public Health Nurse (RPHN).</p>\n\n\n\n<p>HND graduates shall proceed for one-year mandatory Supervised Clinical Experience (Attachment)&nbsp;in an approved health facilities or institution and after&nbsp;successful completion of the one-year mandatory supervised clinical attachment, graduates shall be mobilized for a&nbsp;<strong>one year</strong>&nbsp;National Youth Service Corps (NYSC).</p>\n\n\n\n<p><strong>Admission Requirements</strong></p>\n\n\n\n<p>The minimum entry requirement for admission into the ND Nursing programme is minimum of 5 credits including English Language, Mathematics, Biology, Chemistry and Physics at not more than two (2) sittings in WAEC, NECO or NABTEB.\u00a0Combination\u00a0of WAEC&amp;WAEC, WAEC&amp;NECO or NECO&amp;NECO are accepted but NABTEB must be one sitting. The\u00a0JAMB subject combinations for ND Nursing are Use of English, Biology, Chemistry, and Physics. Any combination apart from that, will not be considered no matter the JAMB score.\u00a0Successful candidates that meets the minimum Cut-off marks will be invited for Screening/Interview by the College.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Introduction The\u00a0main objective\u00a0of the movement of Nursing Education into Colleges of Nursing in collaboration with National Board for Technical Education (NBTE) is to ensure that Nursing and Midwifery education in Nigeria, evolve in line with the National Policy on Education and the contemporary system of education in Nigeria.\u00a0This is in [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6591" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6591"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6591/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6654,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6591/revisions/6654"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6591" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

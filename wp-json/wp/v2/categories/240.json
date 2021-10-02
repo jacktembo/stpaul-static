@@ -1,0 +1,28 @@
+{
+  "id": 240,
+  "count": 8,
+  "description": "",
+  "link": "https://st. Paul.edu.ng/category/schools/",
+  "name": "Schools",
+  "slug": "schools",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/categories/240" }
+    ],
+    "collection": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/categories" }
+    ],
+    "about": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/taxonomies/category" }
+    ],
+    "wp:post_type": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts?categories=240" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

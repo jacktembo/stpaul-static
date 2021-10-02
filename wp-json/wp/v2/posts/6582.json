@@ -1,0 +1,78 @@
+{
+  "id": 6582,
+  "date": "2021-03-19T03:13:05",
+  "date_gmt": "2021-03-19T03:13:05",
+  "guid": { "rendered": "https://st. Paul.edu.ng/?p=6582" },
+  "modified": "2021-04-12T12:03:47",
+  "modified_gmt": "2021-04-12T12:03:47",
+  "slug": "postponement-of-matriculation-ceremony",
+  "status": "publish",
+  "type": "post",
+  "link": "https://st. Paul.edu.ng/postponement-of-matriculation-ceremony/",
+  "title": { "rendered": "Postponement of Matriculation Ceremony" },
+  "content": {
+    "rendered": "\n<p>This to inform all newly admitted students that matriculation ceremony has been postponed to a later date which will be communicated to all concerned.</p>\n\n\n\n<p>However, all newly admitted students should note the following:</p>\n\n\n\n<p>Resumption: Sunday, 21st March, 2021</p>\n\n\n\n<p>Commencement of Lectures: Monday, 22nd March, 2021</p>\n\n\n\n<p>Signed</p>\n\n\n\n<p>Academic Secretary</p>\n\n\n\n<p>For: Provost</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>This to inform all newly admitted students that matriculation ceremony has been postponed to a later date which will be communicated to all concerned. However, all newly admitted students should note the following: Resumption: Sunday, 21st March, 2021 Commencement of Lectures: Monday, 22nd March, 2021 Signed Academic Secretary For: Provost</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [100],
+  "tags": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts/6582" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/post" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6582"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts/6582/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6661,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts/6582/revisions/6661"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6582" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/categories?post=6582"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/tags?post=6582"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

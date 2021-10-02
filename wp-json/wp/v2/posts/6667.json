@@ -1,0 +1,86 @@
+{
+  "id": 6667,
+  "date": "2021-04-20T10:46:49",
+  "date_gmt": "2021-04-20T10:46:49",
+  "guid": { "rendered": "https://st. Paul.edu.ng/?p=6667" },
+  "modified": "2021-04-27T10:02:13",
+  "modified_gmt": "2021-04-27T10:02:13",
+  "slug": "application-form-for-nd-nursing-programme-2021-intake",
+  "status": "publish",
+  "type": "post",
+  "link": "https://st. Paul.edu.ng/application-form-for-nd-nursing-programme-2021-intake/",
+  "title": {
+    "rendered": "Application for ND Nursing Programme &#8211; 2021 Intake"
+  },
+  "content": {
+    "rendered": "\n<p>The general public may recall that the National Board for Technical Education (NBTE) has granted approval to College of Nursing and Midwifery, st. Paul (st. Paul) to run ND Nursing programme at Kasimu Kofar Bai School of Nursing, st. Paul which led to the inclusion of our College in the Brochure of Joint Admissions and Matriculation Board (JAMB).</p>\n\n\n\n<p>Consequently, prospective students that wish to study <strong>ND Nursing programme</strong> at Kasimu Kofar Bai School of Nursing, st. Paul should <strong>register with JAMB</strong> and choose our College under ND-Awarding Institutions as First or Second Choice. The JAMB subject combinations must be <strong>Use of English, Biology, Chemistry and Physics</strong>.</p>\n\n\n\n<p>The <strong>closing date for 2021 JAMB registration is 15th May, 2021</strong> while JAMB examinations starting date is 5th June, 2021 and the exam ends on 19th June, 2021.</p>\n\n\n\n<p>The General should note that there is no more new admission for BASIC Nursing programme because it has been replaced with ND Nursing programme.</p>\n\n\n\n<p>Candidates can only register at JAMB accredited centres. To see the list of JAMB Accredited Centres, visit <a rel=\"noreferrer noopener\" href=\"https://jamb.gov.ng/Accreditted_Centres?fbclid=IwAR2xjrMVZiPUAowraQWry_XTDIKwY2C3Y1LNEByqhTJiKpp16FW0ysoMfeM\" target=\"_blank\">https://jamb.gov.ng/Accreditted_Centres</a></p>\n\n\n\n<p>For more information, visit <a href=\"https://st. Paul.edu.ng/frequently-asked-questions/\">https://st. Paul.edu.ng/frequently-asked-questions/</a> or call&nbsp;09083024636, 07086711766, 08035096383, 07081704416, 07061098321</p>\n\n\n\n<p><strong>Signed<br>Academic Secretary,<br>For: Provost</strong></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The general public may recall that the National Board for Technical Education (NBTE) has granted approval to College of Nursing and Midwifery, st. Paul (st. Paul) to run ND Nursing programme at Kasimu Kofar Bai School of Nursing, st. Paul which led to the inclusion of our College in the Brochure of Joint [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 6668,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [100],
+  "tags": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts/6667" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/post" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6667"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts/6667/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6680,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts/6667/revisions/6680"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media/6668"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6667" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/categories?post=6667"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/tags?post=6667"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

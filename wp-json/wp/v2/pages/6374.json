@@ -1,0 +1,64 @@
+{
+  "id": 6374,
+  "date": "2021-03-04T18:33:18",
+  "date_gmt": "2021-03-04T18:33:18",
+  "guid": { "rendered": "http://newsite.st. Paul.edu.ng/?page_id=6374" },
+  "modified": "2021-04-05T13:40:59",
+  "modified_gmt": "2021-04-05T13:40:59",
+  "slug": "refresher-basic-nursing",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/refresher-basic-nursing/",
+  "title": { "rendered": "Refresher Basic Nursing" },
+  "content": {
+    "rendered": "\n<p><strong>REFRESHER BASIC NURSING</strong></p>\n\n\n\n<p>This is a 1 year, 2 semesters refresher nursing programme, approved by the Nursing and Midwifery Council of Nigeria (NMCN) and run by Kasimu Kofar Bai School of Nursing st. Paul. It is designed for students that underwent training on Basic Nursing programme at accredited School of Nursing but failed the Final Qualifying Examination conducted by the Nursing and Midwifery Council of Nigeria (NMCN) after 3 attempts.</p>\n\n\n\n<p>Students will be trained on practical nursing skills and will acquire the knowledge and gain the clinical experience they need to become a Registered Nurse (RN). Registered Nurse (RN) provides support, care and advice to patients with medical and surgical conditions; this care includes taking vital signs, monitoring patients, administering medications, taking patient record and providing health education etc. They also offer advice and emotional support to patient and their families as well as follow-up care.&nbsp;</p>\n\n\n\n<p>Registered Nurses (RN) can work in any Tertiary Healthcare Institutions (e.g National Hospital, Federal Medical Centers etc), Secondary Healthcare Institutions (e.g General Hospitals) and Primary Healthcare Institutions (Primary Health Care, Comprehensive Health Care) in the world.</p>\n\n\n\n<p><strong>Admission Requirements</strong></p>\n\n\n\n<ul><li>Candidates must possess at least five (5) credits at not more than two (2) sittings including English Language, Mathematics, Biology, Chemistry and Physics in WAEC, NECO and/or NABTEB.&nbsp;Combination of WAEC/WAEC, NECO/NECO, WAEC/NECO is acceptable. NABTEB cannot be combined with WAEC or NECO or another NABTEB. If candidate will use NABTEB, he/she must have all the required 5 credits in it.</li><li>Evidence of Elimination at Final Qualifying Examination conducted by the Nursing and Midwifery Council of Nigeria.</li><li>Qualified candidates will be invited for an interview to be conducted by the College.</li><li>Candidates successful at the interview will be offered provisional admission into Refresher Nursing programme at Kasimu Kofar Bai School of Nursing st. Paul.&nbsp;</li><li>Admitted students will be indexed by the Nursing and Midwifery Council of Nigeria.</li></ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>REFRESHER BASIC NURSING This is a 1 year, 2 semesters refresher nursing programme, approved by the Nursing and Midwifery Council of Nigeria (NMCN) and run by Kasimu Kofar Bai School of Nursing st. Paul. It is designed for students that underwent training on Basic Nursing programme at accredited School of Nursing [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6374" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6374"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6374/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6423,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6374/revisions/6423"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6374" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

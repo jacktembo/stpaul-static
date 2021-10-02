@@ -1,0 +1,78 @@
+{
+  "id": 6259,
+  "date": "2021-02-26T08:51:06",
+  "date_gmt": "2021-02-26T08:51:06",
+  "guid": { "rendered": "http://newsite.st. Paul.edu.ng/?p=6259" },
+  "modified": "2021-02-26T08:51:32",
+  "modified_gmt": "2021-02-26T08:51:32",
+  "slug": "nurses-students-in-library",
+  "status": "publish",
+  "type": "post",
+  "link": "https://st. Paul.edu.ng/nurses-students-in-library/",
+  "title": { "rendered": "Nurses Students in Library" },
+  "content": { "rendered": "", "protected": false },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 6260,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [240],
+  "tags": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts/6259" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/post" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6259"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts/6259/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6271,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/posts/6259/revisions/6271"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media/6260"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6259" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/categories?post=6259"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/tags?post=6259"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

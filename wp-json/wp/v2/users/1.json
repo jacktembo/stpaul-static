@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "name": "st. Paul",
+  "url": "http://newsite.st. Paul.edu.ng",
+  "description": "",
+  "link": "https://st. Paul.edu.ng/author/st. Paul/",
+  "slug": "st. Paul",
+  "avatar_urls": {
+    "24": "https://secure.gravatar.com/avatar/2716409c1f66e601abbf2faea4c240e4?s=24&d=mm&r=g",
+    "48": "https://secure.gravatar.com/avatar/2716409c1f66e601abbf2faea4c240e4?s=48&d=mm&r=g",
+    "96": "https://secure.gravatar.com/avatar/2716409c1f66e601abbf2faea4c240e4?s=96&d=mm&r=g"
+  },
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users" }]
+  }
+}

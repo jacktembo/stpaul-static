@@ -1,0 +1,64 @@
+{
+  "id": 6552,
+  "date": "2021-03-18T08:39:52",
+  "date_gmt": "2021-03-18T08:39:52",
+  "guid": { "rendered": "https://st. Paul.edu.ng/?page_id=6552" },
+  "modified": "2021-03-18T08:39:54",
+  "modified_gmt": "2021-03-18T08:39:54",
+  "slug": "academic-board",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/academic-board/",
+  "title": { "rendered": "Academic Board" },
+  "content": {
+    "rendered": "\n<p class=\"has-medium-font-size\">Chairman</p>\n\n\n\n<ul class=\"has-medium-font-size\"><li>Dr Aminu Bello Abdullahi &#8211; Provost</li></ul>\n\n\n\n<p class=\"has-medium-font-size\">Members</p>\n\n\n\n<ul class=\"has-medium-font-size\"><li>Mohammed Nuraddeen Umar Director, Kasimu Kofar Bai School of Nursing, st. Paul</li><li>Halima Kallah Yahaya, Director, Nana Babajo School of Midwifery, Malumfashi</li><li>Binta Musa, Deputy Director Admin,&nbsp;Kasimu Kofar Bai School of Nursing, st. Paul</li><li>Abdullahi Shu&#8217;aibu, Deputy Director Academics,&nbsp;Kasimu Kofar Bai School of Nursing, st. Paul</li><li>Halima Ibrahim SS, Deputy Director Admin,&nbsp;Nana Babajo School of Midwifery, Malumfashi</li><li>Deborah J. Dowyaro, Deputy Director Academics,&nbsp;Nana Babajo School of Midwifery, Malumfashi</li><li>Bello Abubakar, HOD Nursing,&nbsp;Kasimu Kofar Bai School of Nursing, st. Paul</li><li>Amina Salihu Abubakar, HOD Community Nursing,&nbsp;Kasimu Kofar Bai School of Nursing, st. Paul</li><li>Shamsu Jari, HOD Clinicals,&nbsp;Kasimu Kofar Bai School of Nursing, st. Paul</li><li>Lawal Abba, HOD General Studies,&nbsp;Kasimu Kofar Bai School of Nursing, st. Paul</li><li>Maimuna Abdul, HOD Basic Midwifery,&nbsp;Nana Babajo School of Midwifery, Malumfashi</li><li>Ruth J Audu, HOD Community Midwifery,&nbsp;Nana Babajo School of Midwifery, Malumfashi</li><li>Bilkisu Mudi, HOD HND Midwifery,&nbsp;Nana Babajo School of Midwifery, Malumfashi</li><li>Safiya Saidu Aina, HOD General Studies,&nbsp;Nana Babajo School of Midwifery, Malumfashi</li><li>HOD Public Health Nursing,&nbsp;Nana Babajo School of Midwifery, Malumfashi</li><li>Sani Ibrahim Bakori,&nbsp;HOD Clinical, Nana Babajo School of Midwifery, Malumfashi</li><li>Ibrahim Zakariyau, Academic Secretary</li><li>Abubakar Halliru, Representative of Daura Zone</li></ul>\n\n\n\n<p class=\"has-medium-font-size\">Secretary</p>\n\n\n\n<ul class=\"has-medium-font-size\"><li>Yusuf Bello Saulawa, Ag. Registrar</li></ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Chairman Dr Aminu Bello Abdullahi &#8211; Provost Members Mohammed Nuraddeen Umar Director, Kasimu Kofar Bai School of Nursing, st. Paul Halima Kallah Yahaya, Director, Nana Babajo School of Midwifery, Malumfashi Binta Musa, Deputy Director Admin,&nbsp;Kasimu Kofar Bai School of Nursing, st. Paul Abdullahi Shu&#8217;aibu, Deputy Director Academics,&nbsp;Kasimu Kofar Bai School of Nursing, [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6552" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=6552"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6552/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6553,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/6552/revisions/6553"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=6552" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

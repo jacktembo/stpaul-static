@@ -1,0 +1,60 @@
+{
+  "id": 5949,
+  "date": "2016-11-22T11:26:55",
+  "date_gmt": "2016-11-22T11:26:55",
+  "guid": {
+    "rendered": "http://demo.wpzoom.com/academica-pro-3/?page_id=5949"
+  },
+  "modified": "2021-06-15T06:58:38",
+  "modified_gmt": "2021-06-15T06:58:38",
+  "slug": "homepage",
+  "status": "publish",
+  "type": "page",
+  "link": "https://st. Paul.edu.ng/",
+  "title": { "rendered": "Homepage" },
+  "content": { "rendered": "", "protected": false },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "page-templates/home-3cols.php",
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/5949" }],
+    "collection": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://st. Paul.edu.ng/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/comments?post=5949"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/5949/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 6159,
+        "href": "https://st. Paul.edu.ng/wp-json/wp/v2/pages/5949/revisions/6159"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://st. Paul.edu.ng/wp-json/wp/v2/media?parent=5949" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
