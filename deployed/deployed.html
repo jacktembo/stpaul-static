@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Deployed Successfully</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="vendor/bootstrap/css/bootstrap.min.css"
+    />
+    <!--===============================================================================================-->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="fonts/font-awesome-4.7.0/css/font-awesome.min.css"
+    />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css" />
+    <!--===============================================================================================-->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="vendor/select2/select2.min.css"
+    />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="css/util.css" />
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+    <!--===============================================================================================-->
+  </head>
+  <style>
+    .my-p {
+      text-align: center;
+      margin: 2rem;
+      font-size: 90% !important;
+      color: rgb(80, 80, 163);
+      font-weight: bold;
+    }
+    .txt-center {
+      font-size: 115% !important;
+    }
+    .go-home {
+      text-align: center;
+      margin: 1rem;
+    }
+    .information {
+      text-align: center;
+      margin-top: 1rem;
+    }
+    .txt-center span {
+      font-weight: bold;
+    }
+    #demo {
+      text-align: center;
+      margin-bottom: 0.5rem;
+      background-color: black;
+      color: white;
+      font-size: 150%;
+      font-weight: bold;
+    }
+  </style>
+  <body>
+    <div
+      class="bg-img1 size1 flex-w flex-c-m p-t-55 p-b-55 p-l-15 p-r-15"
+      style="background-image: url('images/bg01.jpg')"
+    >
+      <div class="wsize1 bor1 bg1 p-t-175 p-b-45 p-l-15 p-r-15 respon1">
+        <div class="wrappic1">
+          <a href="../index.html"><img src="../img/logo.png" alt="LOGO" /></a>
+        </div>
+
+        <p class="txt-center m1-txt1 p-t-33 p-b-68">
+          Congratulations! Your E-Learning Website has been Successfully
+          deployed to Google Cloud Platform.
+        </p>
+        <p class="my-p">The site will be live in:</p>
+
+        <!-- Display the countdown timer in an element -->
+        <p id="demo"></p>
+
+        <script>
+          // Set the date we're counting down to
+          var countDownDate = new Date("Oct 7, 2021 08:37:25").getTime();
+
+          // Update the count down every 1 second
+          var x = setInterval(function () {
+            // Get today's date and time
+            var now = new Date().getTime();
+
+            // Find the distance between now and the count down date
+            var distance = countDownDate - now;
+
+            // Time calculations for days, hours, minutes and seconds
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor(
+              (distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+            );
+            var minutes = Math.floor(
+              (distance % (1000 * 60 * 60)) / (1000 * 60)
+            );
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            // Display the result in the element with id="demo"
+            document.getElementById("demo").innerHTML =
+              days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+
+            // If the count down is finished, write some text
+            if (distance < 0) {
+              clearInterval(x);
+              document.getElementById("demo").innerHTML = "EXPIRED";
+            }
+          }, 1000);
+        </script>
+        <p class="s1-txt4 txt-center p-t-10">
+          <em>
+            Please Allow up to the estimated time for the site to be live. We
+            require your patience as Google Servers are indexing your
+            application.
+          </em>
+        </p>
+        <div class="information">
+          <div>
+            <span>Name Of Application:</span> ST Paul's College Of Nursing And
+            Widwifery
+          </div>
+          <div><span>Type:</span> E-Learning Management System</div>
+          <div><span>Date Deployed: </span>04-10-2021 10:33 A.M</div>
+        </div>
+        <p class="go-home">Go to the <a href="../index.html">Home Page</a></p>
+      </div>
+    </div>
+
+    <!--===============================================================================================-->
+    <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/bootstrap/js/popper.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/countdowntime/moment.min.js"></script>
+    <script src="vendor/countdowntime/moment-timezone.min.js"></script>
+    <script src="vendor/countdowntime/moment-timezone-with-data.min.js"></script>
+    <script src="vendor/countdowntime/countdowntime.js"></script>
+    <script>
+      $(".cd100").countdown100({
+        /*Set Endtime here*/
+        /*Endtime must be > current time*/
+        endtimeYear: 0,
+        endtimeMonth: 0,
+        endtimeDate: 3,
+        endtimeHours: 0,
+        endtimeMinutes: 1,
+        endtimeSeconds: 0,
+        timeZone: "",
+        // ex:  timeZone: "America/New_York"
+        //go to " http://momentjs.com/timezone/ " to get timezone
+      });
+    </script>
+    <!--===============================================================================================-->
+    <script src="vendor/tilt/tilt.jquery.min.js"></script>
+    <script>
+      $(".js-tilt").tilt({
+        scale: 1.1,
+      });
+    </script>
+    <!--===============================================================================================-->
+    <script src="js/main.js"></script>
+  </body>
+</html>
